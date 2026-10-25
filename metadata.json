@@ -1,0 +1,6 @@
+{
+  "name": "Neta Perfume | Luxury Indian Perfumery",
+  "description": "Command attention and leave a legacy. NETA PERFUME is a luxury Indian fragrance house crafting distinctive, timeless perfumes inspired by authority, heritage, and refined presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
